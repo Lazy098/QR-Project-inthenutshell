@@ -1,0 +1,38 @@
+* {
+    background-color: #7879f1;
+    position: relative;
+}
+
+h3 {
+    text-align: center;
+}
+
+img{
+    margin: 50px;
+    margin-left: 80px;
+    margin-top: 100px;
+    width: 50%;
+}
+
+.body{
+    width: 110%;
+    height: 600px;
+    margin-left: -10px;
+    background-color: white;
+    position: absolute;
+}
+
+.small_container{
+    background-color: white;
+    margin-left: 55px;
+    margin-top: 20px;
+
+}
+
+button{
+    height: 50px;
+    width: 200px;
+    margin-left: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}

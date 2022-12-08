@@ -1,0 +1,50 @@
+*{
+    background-color: #a3a1e1;
+    width: 100%;
+}
+
+.container{
+    height: 1080px;
+    width: 100%;
+}
+
+.header{
+    text-align: center;
+    width: 100%;
+    height: 50px;
+}
+
+.bodyy{
+    background-color: white;
+    width: 105%;
+    height: 800px;
+    margin-left: -10px;
+}
+
+.footer{
+    width: 100%;
+}
+
+p{
+    background-color: white;
+    margin-left: 20px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+select{
+    background-color: white;
+    width: 85%;
+    margin-left: 20px;
+}
+
+option{
+    background-color: white;
+}
+
+button{
+    width: 30%;
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
